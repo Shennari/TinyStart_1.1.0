@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+  Changes:
+    - Update for Factorio 1.1.0.
+    - Improved cutscene compatibility thanks to an implemented API request \o/ Should another mod choose to use cutscenes, everything should behave completely normally.
+---------------------------------------------------------------------------------------------------
